@@ -1,0 +1,22 @@
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.deps.json
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.runtimeconfig.json
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.runtimeconfig.dev.json
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.dll
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.pdb
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.csprojAssemblyReference.cache
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.csproj.CoreCompileInputs.cache
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.AssemblyInfoInputs.cache
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.AssemblyInfo.cs
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.dll
+/Users/christophergivan/Documents/C# Code Louisville/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.pdb
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.deps.json
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.runtimeconfig.json
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.runtimeconfig.dev.json
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.dll
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/bin/Debug/netcoreapp2.1/EmployeeProject.pdb
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.csprojAssemblyReference.cache
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.csproj.CoreCompileInputs.cache
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.AssemblyInfoInputs.cache
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.AssemblyInfo.cs
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.dll
+/Users/christophergivan/Documents/C Sharp Final Project/EmployeeProject/EmployeeProject/obj/Debug/netcoreapp2.1/EmployeeProject.pdb
