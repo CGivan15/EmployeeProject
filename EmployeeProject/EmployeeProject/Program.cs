@@ -13,7 +13,7 @@ namespace EmployeeProject
         static void Main(string[] args)
         {
             // filepath of CSV file
-            string filePath = @"../../Employees.csv";
+            string filePath = @"../../../Employees.csv";
 
             // format output to a readable table layout
             const string format = "|{0,-10} |{1,-20} |{2,-26}";
